@@ -7,31 +7,31 @@
 
 <hr/>
 
-## Webpack
+### Webpack
     npm i webpack webpack-cli webpack-dev-server clean-webpack-plugin -D
 
-## VUE
+### VUE
     npm i vue-loader vue-template-compiler -D
 
-## BABEL
+### BABEL
     npm i @babel/cli @babel/core @babel/preset-env babel-loader -D
 
-## HMTL
+### HMTL
     npm i html-webpack-plugin -D
 
-## AUTOPREFIXER
+### AUTOPREFIXER
     npm i autoprefixer postcss-loader -D
 
-## CSS
+### CSS
     npm i css-loader vue-style-loader mini-css-extract-plugin -D
 
-## SASS
+### SASS
     npm i sass-loader node-sass -D
 
-## IMGAENES
+### IMGAENES
     npm i image-webpack-loader -D
 
-## FILES
+### FILES
     npm i file-loader -D
 
 ### DEPENDECIES - PRODUCTION
@@ -55,7 +55,7 @@
 
 [https://github.com/FortAwesome/vue-fontawesome#basic]
 
-### main.js
+#### main.js
 
     import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
     Vue.component('fa',FontAwesomeIcon);
