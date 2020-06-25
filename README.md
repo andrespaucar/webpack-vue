@@ -7,7 +7,7 @@
 
 <hr/>
 
-### Webpack
+### Webpack CONFIG
     npm i webpack webpack-cli webpack-dev-server clean-webpack-plugin -D
 
 ### VUE
